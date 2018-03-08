@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1052537182547",
+    "firebase_url": "https://sakhi-51404.firebaseio.com",
+    "project_id": "sakhi-51404",
+    "storage_bucket": "sakhi-51404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052537182547:android:cbb99b769cef1b1c",
+        "android_client_info": {
+          "package_name": "com.example.beast.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052537182547-q6nvj5najh4lnr83bft4r8tuto32u6q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6w8lNtNO0FkPpPFQwc86UFeCmeCdk7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
